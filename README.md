@@ -17,10 +17,10 @@ GitHub Markdown Tricks
 
 <hr>
 
-<div align="center">
+<div align="center"><pre>
 <kbd>
 <img height="300" alt src="https://i.imgur.com/S7BuiDA.png" />
 </kbd>
-</div>
+</pre></div>
 
 <kbd>yo</kbd>
