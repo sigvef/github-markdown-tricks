@@ -9,10 +9,15 @@ GitHub Markdown Tricks
 
 <br><br><br>
 
+## Image frames
 
 <pre align="center">
 <img height="300" alt src="https://i.imgur.com/S7BuiDA.png" />
 </pre>
+
+<kbd align="center">
+<img height="300" alt src="https://i.imgur.com/S7BuiDA.png" />
+</kbd>
 
 
 <kbd>yo</kbd>
