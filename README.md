@@ -8,6 +8,6 @@ GitHub Markdown Tricks
 </div>
 
 
-<pre class="center">
+<pre align="center">
 <img width="200" alt src="https://i.imgur.com/S7BuiDA.png" />
 </pre>
