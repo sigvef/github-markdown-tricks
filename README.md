@@ -12,21 +12,19 @@ GitHub Markdown Tricks
 ## Image frames
 
 <pre align="center">
-<img height="200" alt src="https://i.imgur.com/S7BuiDA.png" />
+<img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
 </pre>
 
 <hr>
 
 <div align="center">
 <kbd>
-<img height="200" alt src="https://i.imgur.com/S7BuiDA.png" />
+<img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
 </kbd>
 </div>
 
-
-
-<table><tbody><tr><td>
-<img height="200" alt src="https://i.imgur.com/S7BuiDA.png" />
+<table><tbody><tr><td><br>
+<img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
   </td></tr></tbody></table>
 
 <kbd>yo</kbd>
