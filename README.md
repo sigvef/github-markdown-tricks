@@ -14,17 +14,19 @@ GitHub Markdown Tricks
 <pre align="center">
 <img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
 </pre>
-
 <hr>
-
 <div align="center">
 <kbd>
 <img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
 </kbd>
 </div>
-
+<hr>
+<table><tbody><tr><td>
+<img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
+  </td></tr></tbody></table>
+<hr>
 <table><tbody><tr></tr><tr><td>
 <img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
   </td></tr></tbody></table>
-
+<hr>
 <kbd>yo</kbd>
