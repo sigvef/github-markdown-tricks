@@ -23,7 +23,7 @@ GitHub Markdown Tricks
 </kbd>
 </div>
 
-<table><tbody><tr><td><br>
+<table><tbody><tr></tr><tr><td>
 <img height="250" alt src="https://i.imgur.com/S7BuiDA.png" />
   </td></tr></tbody></table>
 
